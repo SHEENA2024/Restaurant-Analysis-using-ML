@@ -35,7 +35,6 @@ Statistical summaries
 Business recommendations
 Professional formatting
 
+Please do not forget to install the following libraries in your integrated terminal:
+pip install numpy,pandas,matlpotlib,seaborn,scikit-learn
 
-Install required libraries (if needed):
-
-bash
